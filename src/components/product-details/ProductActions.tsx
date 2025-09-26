@@ -2,12 +2,13 @@ import { Product } from '@/types/product';
 
 type Props = {
   product: Product;
-  onBuy: (product: Product) => void; // same as ProductCard
+  onBuy: (product: Product) => void; 
 }
 
 export default function ProductActions({ product, onBuy }: Props) {
   return (
     <div className="mt-6 flex gap-4">
+        {/* Show modal when click on Buy */}
       <button
         disabled={product.stock === 0}
         onClick={() => onBuy(product)}

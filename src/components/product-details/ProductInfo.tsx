@@ -1,4 +1,5 @@
 import { Product } from '@/types/product';
+// Product info for the details page
 
 type Props = { product: Product }
 

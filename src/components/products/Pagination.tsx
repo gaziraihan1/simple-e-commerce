@@ -4,6 +4,8 @@ type PaginationProps = {
     totalPages: number;
     onPageChange: (page: number) => void;
 }
+
+// Pagination (reusable componnent), Only for previous and next page functionality
 export default function Pagination ({currentPage, totalPages, onPageChange}: PaginationProps) {
     return (
         <div className="flex justify-center gap-4 mt-6">

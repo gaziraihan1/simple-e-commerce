@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Product Store
+
+A responsive e-commerce **product listing and details page** built with **Next.js** and **Tailwind CSS**, featuring dynamic product modals, reusable components, and client-side interactivity.
+
+## Features
+
+- **Product List Page**: Display all products with image, name, category, and price.  
+- **Product Details Page**: Shows detailed information including brand, description, rating, stock, discount, and reviews.  
+- **Reusable Components**: `ProductCard`, `ProductImage`, `ProductInfo`, `ProductActions`, and `ProductModal`.  
+- **Add to Cart / Buy Now**: Clicking buttons opens a modal with product details.  
+- **Dynamic Product Modal**: Shows product details in a pop-up modal.  
+- **Client-Side Rendering**: Product data fetched from a JSON file in the `public` folder.  
+- **Responsive Design**: Works well on mobile, tablet, and desktop screens.  
+
+## Tech Stack
+
+- **Framework**: Next.js 13 (App Router)  
+- **Styling**: Tailwind CSS  
+- **Image Optimization**: Next.js Image Component  
+- **State Management**: React `useState` and `useEffect`  
+- **Data Source**: JSON file in `public/products.json`  
+
+
+## Usage
+
+1. Go to the **Product List** page to see all products.  
+2. Click **Details** to view full product information.  
+3. Click **Add to Cart** or **Buy Now** to open the **Product Modal**.  
+4. Close the modal with the **✖** button.  
+
+---
+
+## Customization
+
+- Add new products in `/public/products.json`.  
+- Add product images to `/public/images/`.  
+- Update styling in Tailwind CSS classes for custom designs.  
+
+---
+
+## Future Enhancements
+
+- Integrate **backend API** to store and fetch products dynamically.  
+- Add **shopping cart functionality** with local storage or database.  
+- Include **quantity selector** and **checkout page**.  
+- Add **filtering and sorting** for products.  
+- Add **related products section** in product details.  
+
 
 ## Getting Started
 
-First, run the development server:
+1. **Clone the repository**
 
 ```bash
+git clone https://github.com/gaziraihan1/simple-e-commerce.git
+cd simple-e-commerce
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👨‍💻 Author
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Mohammad Raihan Gazi  
+- 💼 Full Stack Developer  
+- 🌍 Based in **Dhaka, Bangladesh**  
+- 📧 Email: [gazyraihan3@gmail.com](mailto:gazyraihan3@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/mohammad-raihan-gazi](https://linkedin.com/in/mohammad-raihan-gazi) 

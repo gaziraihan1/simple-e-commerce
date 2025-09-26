@@ -7,6 +7,8 @@ type ProductCardProps = {
   onBuy: (product: Product) => void;
 }
 
+// product card component (multiple cards one component)
+
 export default function ProductCard({product, onBuy}: ProductCardProps) {
   return (
     <div className="border p-4 rounded-md shadow-sm flex flex-col justify-between">

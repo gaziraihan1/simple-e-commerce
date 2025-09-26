@@ -1,3 +1,4 @@
+// Define the type of products object
 export type Product = {
     id: number;
     name: string;

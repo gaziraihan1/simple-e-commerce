@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { Product } from '@/types/product';
+// Component for reusable image
 
 type Props = { product: Product }
 

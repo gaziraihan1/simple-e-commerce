@@ -6,13 +6,13 @@ type ProductModalProps = {
   product: Product | null;
   onClose: () => void;
 };
-
+// Reusable Product modal component
 export default function ProductModal({ product, onClose }: ProductModalProps) {
   if (!product) return null;
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-      <div className="bg-white p-6 rounded-lg max-w-lg w-full relative shadow-lg overflow-y-auto max-h-[90vh]">
+      <div className="bg-white p-6 mx-4 rounded-lg max-w-lg w-full relative shadow-lg overflow-y-auto max-h-[90vh]">
 
         <button
           onClick={onClose}
