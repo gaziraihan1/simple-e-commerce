@@ -33,7 +33,6 @@ A responsive e-commerce **product listing and details page** built with **Next.j
 ## Customization
 
 - Add new products in `/public/products.json`.  
-- Add product images to `/public/images/`.  
 - Update styling in Tailwind CSS classes for custom designs.  
 
 ---
