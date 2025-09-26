@@ -9,7 +9,7 @@
     "stock": 50,
     "rating": 4.5,
     "reviews": 120,
-    "image": "https://via.placeholder.com/200x200?text=Headphones",
+    "image": "https://via.placeholder.com/no-image",
     "description": "High-quality wireless headphones with noise cancellation and long battery life."
   },
   {
@@ -22,7 +22,7 @@
     "stock": 30,
     "rating": 4.7,
     "reviews": 230,
-    "image": "https://via.placeholder.com/200x200?text=Smartphone",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Latest smartphone with AMOLED display, 5G support, and triple camera setup."
   },
   {
@@ -35,7 +35,7 @@
     "stock": 20,
     "rating": 4.8,
     "reviews": 85,
-    "image": "https://via.placeholder.com/200x200?text=Laptop",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Powerful gaming laptop with RTX graphics, 16GB RAM, and fast SSD storage."
   },
   {
@@ -48,7 +48,7 @@
     "stock": 75,
     "rating": 4.4,
     "reviews": 95,
-    "image": "https://via.placeholder.com/200x200?text=Speaker",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Portable Bluetooth speaker with rich sound quality and waterproof design."
   },
   {
@@ -61,7 +61,7 @@
     "stock": 18,
     "rating": 4.6,
     "reviews": 60,
-    "image": "https://via.placeholder.com/200x200?text=TV",
+    "image": "https://via.placeholder.com/no-image",
     "description": "55-inch Ultra HD Smart TV with HDR and built-in streaming apps."
   },
   {
@@ -74,7 +74,7 @@
     "stock": 120,
     "rating": 4.3,
     "reviews": 140,
-    "image": "https://via.placeholder.com/200x200?text=Mouse",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Ergonomic wireless mouse with adjustable DPI and long-lasting battery."
   },
   {
@@ -87,7 +87,7 @@
     "stock": 60,
     "rating": 4.5,
     "reviews": 110,
-    "image": "https://via.placeholder.com/200x200?text=Keyboard",
+    "image": "https://via.placeholder.com/no-image",
     "description": "RGB backlit mechanical keyboard with customizable keys and fast response."
   },
   {
@@ -100,7 +100,7 @@
     "stock": 40,
     "rating": 4.7,
     "reviews": 210,
-    "image": "https://via.placeholder.com/200x200?text=Smartwatch",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Smartwatch with health tracking, GPS, and seamless phone integration."
   },
   {
@@ -113,7 +113,7 @@
     "stock": 80,
     "rating": 4.4,
     "reviews": 160,
-    "image": "https://via.placeholder.com/200x200?text=Fitness+Band",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Lightweight fitness tracker with heart rate monitoring and sleep tracking."
   },
   {
@@ -126,7 +126,7 @@
     "stock": 25,
     "rating": 4.5,
     "reviews": 70,
-    "image": "https://via.placeholder.com/200x200?text=Air+Purifier",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Air purifier with HEPA filter and smart air quality monitoring."
   },
   {
@@ -139,7 +139,7 @@
     "stock": 15,
     "rating": 4.6,
     "reviews": 55,
-    "image": "https://via.placeholder.com/200x200?text=Microwave",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Compact microwave oven with grill functionality and smart presets."
   },
   {
@@ -152,7 +152,7 @@
     "stock": 35,
     "rating": 4.3,
     "reviews": 90,
-    "image": "https://via.placeholder.com/200x200?text=Coffee+Maker",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Automatic coffee maker with frother for cappuccinos and lattes."
   },
   {
@@ -165,7 +165,7 @@
     "stock": 45,
     "rating": 4.4,
     "reviews": 75,
-    "image": "https://via.placeholder.com/200x200?text=Blender",
+    "image": "https://via.placeholder.com/no-image",
     "description": "High-speed blender for smoothies, shakes, and food preparation."
   },
   {
@@ -178,7 +178,7 @@
     "stock": 10,
     "rating": 4.8,
     "reviews": 40,
-    "image": "https://via.placeholder.com/200x200?text=Refrigerator",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Energy-efficient refrigerator with frost-free technology and smart cooling."
   },
   {
@@ -191,7 +191,7 @@
     "stock": 12,
     "rating": 4.6,
     "reviews": 50,
-    "image": "https://via.placeholder.com/200x200?text=Washing+Machine",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Front-load washing machine with quick wash and eco modes."
   },
   {
@@ -204,7 +204,7 @@
     "stock": 22,
     "rating": 4.7,
     "reviews": 95,
-    "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Cordless vacuum cleaner with strong suction and long battery life."
   },
   {
@@ -217,7 +217,7 @@
     "stock": 28,
     "rating": 4.5,
     "reviews": 80,
-    "image": "https://via.placeholder.com/200x200?text=Chair",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Ergonomic office chair with lumbar support and adjustable height."
   },
   {
@@ -230,7 +230,7 @@
     "stock": 8,
     "rating": 4.6,
     "reviews": 35,
-    "image": "https://via.placeholder.com/200x200?text=Dining+Table",
+    "image": "https://via.placeholder.com/no-image",
     "description": "6-seater wooden dining table set with modern design."
   },
   {
@@ -243,7 +243,7 @@
     "stock": 6,
     "rating": 4.7,
     "reviews": 25,
-    "image": "https://via.placeholder.com/200x200?text=Sofa",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Comfortable 3+1+1 seater sofa set with premium fabric upholstery."
   },
   {
@@ -256,7 +256,7 @@
     "stock": 5,
     "rating": 4.8,
     "reviews": 18,
-    "image": "https://via.placeholder.com/200x200?text=Bed",
+    "image": "https://via.placeholder.com/no-image",
     "description": "King size bed with solid wood frame and storage drawers."
   },
   {
@@ -269,7 +269,7 @@
     "stock": 90,
     "rating": 4.2,
     "reviews": 65,
-    "image": "https://via.placeholder.com/200x200?text=Lamp",
+    "image": "https://via.placeholder.com/no-image",
     "description": "LED table lamp with adjustable brightness and stylish design."
   },
   {
@@ -282,7 +282,7 @@
     "stock": 75,
     "rating": 4.3,
     "reviews": 70,
-    "image": "https://via.placeholder.com/200x200?text=Clock",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Classic wall clock with silent movement and elegant design."
   },
   {
@@ -295,7 +295,7 @@
     "stock": 20,
     "rating": 4.5,
     "reviews": 40,
-    "image": "https://via.placeholder.com/200x200?text=Carpet",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Soft and stylish rug carpet suitable for living rooms and bedrooms."
   },
   {
@@ -308,7 +308,7 @@
     "stock": 50,
     "rating": 4.3,
     "reviews": 55,
-    "image": "https://via.placeholder.com/200x200?text=Curtains",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Set of blackout curtains with premium fabric and modern design."
   },
   {
@@ -321,7 +321,7 @@
     "stock": 65,
     "rating": 4.6,
     "reviews": 140,
-    "image": "https://via.placeholder.com/200x200?text=Sneakers",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Comfortable and stylish sneakers for casual and sports wear."
   },
   {
@@ -334,7 +334,7 @@
     "stock": 25,
     "rating": 4.7,
     "reviews": 85,
-    "image": "https://via.placeholder.com/200x200?text=Jacket",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Premium leather jacket with modern fit and durable stitching."
   },
   {
@@ -347,7 +347,7 @@
     "stock": 30,
     "rating": 4.5,
     "reviews": 95,
-    "image": "https://via.placeholder.com/200x200?text=Watch",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Elegant wrist watch with leather strap and water resistance."
   },
   {
@@ -360,7 +360,7 @@
     "stock": 80,
     "rating": 4.4,
     "reviews": 110,
-    "image": "https://via.placeholder.com/200x200?text=Backpack",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Durable backpack with multiple compartments for travel and daily use."
   },
   {
@@ -373,7 +373,7 @@
     "stock": 55,
     "rating": 4.6,
     "reviews": 100,
-    "image": "https://via.placeholder.com/200x200?text=Sunglasses",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Stylish sunglasses with UV protection and lightweight frame."
   },
   {
@@ -386,7 +386,7 @@
     "stock": 45,
     "rating": 4.5,
     "reviews": 90,
-    "image": "https://via.placeholder.com/200x200?text=Perfume",
+    "image": "https://via.placeholder.com/no-image",
     "description": "Long-lasting fragrance with refreshing and elegant notes."
   }
 ]
