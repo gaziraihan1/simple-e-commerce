@@ -14,7 +14,7 @@ A responsive e-commerce **product listing and details page** built with **Next.j
 
 ## Tech Stack
 
-- **Framework**: Next.js 13 (App Router)  
+- **Framework**: Next.js 15+ (App Router)  
 - **Styling**: Tailwind CSS  
 - **Image Optimization**: Next.js Image Component  
 - **State Management**: React `useState` and `useEffect`  
